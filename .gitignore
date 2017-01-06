@@ -1,3 +1,8 @@
 eclim
 plugin/eclim.vim
 .netrwhist
+bundle/
+doc/
+tags/
+autoload/
+after/
